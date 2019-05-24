@@ -1,0 +1,48 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/bethhaubert/code/personal/ameowica/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/models/user.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/bethhaubert/code/personal/ameowica/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1558738193
+  }
+}
