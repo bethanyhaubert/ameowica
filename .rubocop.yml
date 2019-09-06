@@ -5,6 +5,8 @@ AllCops:
     - db/**/*
     - tmp/**/*
     - vendor/**/*
+    - Rakefile
+    - spec/rails_helper.rb
 
 Rails:
   Enabled: true
@@ -30,6 +32,9 @@ Rails/UniqBeforePluck:
   Enabled: false
 
 Rails/Delegate:
+  Enabled: false
+
+Rails/HasAndBelongsToMany:
   Enabled: false
 
 Layout/AlignParameters:
