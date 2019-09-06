@@ -30,4 +30,17 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  home:
+    index:
+      heading: Ameowica
+      subheading: The anti-social network for you cat
+      meet: Meet America's cats
+    show:
+      fart: fart
+  cats:
+    new:
+      title: New Cat
+      placeholder:
+        name: Enter your cat's name
+        birthday: Enter your cat's birthday
+        image: Upload a photo of your cat

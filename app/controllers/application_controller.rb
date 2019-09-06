@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
 class ApplicationController < ActionController::Base
-  include Clearance::Controller
+  # include Clearance::Controller
+  # before_action :require_login
 end
