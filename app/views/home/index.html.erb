@@ -1,1 +1,25 @@
-foo
+<div>
+  <h1>
+    <%= t(".heading") %>
+  </h1>
+  <p>
+    <%= t(".subheading") %>
+  </p>
+</div>
+<div>
+  <h2>
+    <%= t(".meet") %>
+  </h2>
+  <ul>
+    <% @cats.each do |cat| %>
+      <li>
+        <a href="/cats/<%= cat.id %>">
+          <img src="<%= cat.image %>"/>
+          <span>
+            <%= cat.name %>
+          </span>
+        </a>
+      </li>
+    <% end %>
+  </ul>
+</div>
