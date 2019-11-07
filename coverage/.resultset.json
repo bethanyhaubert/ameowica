@@ -22,25 +22,25 @@
         1,
         null
       ],
-      "/Users/bethhaubert/code/personal/ameowica/app/models/cat.rb": [
+      "/Users/bethhaubert/code/personal/ameowica/app/mailers/application_mailer.rb": [
         null,
         null,
-        1,
-        1,
-        1,
-        1,
-        null
+        0,
+        0,
+        0,
+        0
       ],
       "/Users/bethhaubert/code/personal/ameowica/app/models/favorite_thing.rb": [
         null,
         null,
-        1,
-        1,
-        null
+        0,
+        0,
+        0
       ],
-      "/Users/bethhaubert/code/personal/ameowica/app/mailers/application_mailer.rb": [
+      "/Users/bethhaubert/code/personal/ameowica/app/models/cat.rb": [
         null,
         null,
+        0,
         0,
         0,
         0,
@@ -98,6 +98,6 @@
         0
       ]
     },
-    "timestamp": 1567792711
+    "timestamp": 1567800963
   }
 }

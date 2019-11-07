@@ -1,0 +1,15 @@
+<h1>
+  <%= t(".title") %>
+</h1>
+
+<%= form_for @cat, method: :post, url: user_cats_path, html: { class: "" } do |f| %>
+  <%= f.label :name %>:
+  <%= f.text_field :name, placeholder: t(".placeholder.name") %>
+
+  <%= f.label :birthday %>:
+  <%= f.date_field :birthday %>
+
+  <%= f.label :image %>:
+  <%= f.file_field :image %>
+  <%= f.submit %>
+<% end %>
